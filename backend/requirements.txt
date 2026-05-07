@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+python-multipart
+scikit-learn
+numpy
+pydantic
+aiofiles
