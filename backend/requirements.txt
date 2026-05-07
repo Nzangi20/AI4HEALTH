@@ -1,5 +1,5 @@
 fastapi
-uvicorn
+uvicorn[standard]
 sqlalchemy
 python-jose[cryptography]
 python-multipart
@@ -7,3 +7,4 @@ scikit-learn
 numpy
 pydantic
 aiofiles
+psycopg2-binary
